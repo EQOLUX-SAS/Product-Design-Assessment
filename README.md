@@ -1,3 +1,6 @@
+###### future prospects
+- work in progress
+
 # Product Design assessment 
 
 **Please read the instructions and FAQ below before begin.**
@@ -18,4 +21,6 @@ What type of graphic would you propose, send a link to the sketch (or Figma) to 
 ### What should I do when I'm finished?
 
 After you have finished you work push all commits to your repository, and then send us email to inform that app has been finished, also please add following users there:
+
 * raphael.mahiet@eqolux.com
+* marine@eqolux.com
