@@ -1,6 +1,3 @@
-###### future prospects
-- work in progress
-
 # Product Design assessment 
 
 **Please read the instructions and FAQ below before begin.**
